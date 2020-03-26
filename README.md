@@ -1,3 +1,4 @@
 # my-world
 another repository thats it
-master
+
+Hi everyone! I am very new at coding and just following the instructions! YAY!
